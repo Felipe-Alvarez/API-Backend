@@ -450,5 +450,11 @@
             "correo": "rphelipeaux1d@google.co.uk",
             "fecha_nacimiento": "2014-05-07"
         }
+    ],
+    "Materias": [
+        {
+            "id" : "1",
+            "name_mate" : "Español"
+        }
     ]
 }
